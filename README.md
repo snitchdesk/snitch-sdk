@@ -12,7 +12,7 @@ Status: 0.1.0. It works and it is tested, but the API may still change before 1.
 npm install github:snitchdesk/snitch-sdk
 ```
 
-The package builds itself on install. Node 20 or newer is required. It has no runtime dependencies and only uses `fetch`, so it also runs in modern browsers.
+The package builds itself on install, so git has to be available. Node 20 or newer is required. It has no runtime dependencies and only uses `fetch`, so it also runs in modern browsers.
 
 ## A first agent
 
